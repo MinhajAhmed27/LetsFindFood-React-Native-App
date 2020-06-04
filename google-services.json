@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113186507239",
+    "firebase_url": "https://letsfindfood-c7c75.firebaseio.com",
+    "project_id": "letsfindfood-c7c75",
+    "storage_bucket": "letsfindfood-c7c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113186507239:android:56206ed48fcd5cd0091542",
+        "android_client_info": {
+          "package_name": "com.marmin.LetsFindFood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113186507239-v7s20hoav3m5c41h9j7l8lt4mb7jqli9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsajKYUiJecSWxXlwzqmDrsLoMivvlXU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113186507239-v7s20hoav3m5c41h9j7l8lt4mb7jqli9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
